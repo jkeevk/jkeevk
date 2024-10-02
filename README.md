@@ -7,6 +7,8 @@
 
 Холодильная, криогенная техника и кондиционирование (инженер)
 
+Уровень английского языка Intermediate (B1)
+
 ## 🧠Навыки
 - **Языки программирования**: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="25" height="25" />, SQL
 - **Инструменты разработки**: Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25" />, GitHub <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="25" height="25" />
