@@ -46,7 +46,14 @@
 
 [Ссылка на проект](https://github.com/jkeevk/Project_TgBOT)
 
-## ✉️Мои контакты
+### Кейсы
+- #### Кейс «Разработка алгоритма обхода матрицы по спирали, полученной по сети»
+[Ссылка на кейс](https://github.com/jkeevk/Case_Spiral_Matrix)
+- #### Кейс «Разработка телеграм бота с редактированием изображений»
+[Ссылка на проект](https://github.com/jkeevk/Case_TgBOT)
+
+
+# ✉️Мои контакты
 
 - jkeevk@yandex.ru
 - https://t.me/jkeeincredible
