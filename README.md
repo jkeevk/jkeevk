@@ -56,7 +56,8 @@
 [Ссылка на кейс](https://github.com/jkeevk/Case_Spiral_Matrix)
 - #### «Разработка телеграм бота с редактированием изображений»
 [Ссылка на кейс](https://github.com/jkeevk/Case_TgBOT)
-
+- #### «Разработка API бэкенд простого приложения для списка дел»
+[Ссылка на кейс](https://github.com/jkeevk/todo_list)
 
 # ✉️Мои контакты
 
