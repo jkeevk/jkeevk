@@ -1,22 +1,52 @@
 # 🖐Приветствую! 
 ## Обо мне
-Меня зовут Сергей Игумнов. Я начинающий Python-разработчик с опытом создания бэкенд-приложений и Telegram-ботов. В апреле 2025 закончил обучение в Нетологии по программе "Python-разработчик: расширенный курс".
+Меня зовут Сергей Игумнов! 
 
-Ищу позицию Junior-разработчика для роста в области веб-разработки и работы с данными. Готов применять знания в области веб-разработки, работы с базами данных и автоматизации.
-Увлечен созданием чистого и эффективного кода, интересуюсь backend-разработкой и машинным обучением.
+Python backend-разработчик с опытом коммерческой разработки высоконагруженных backend приложений, микросервисной архитектуры и создания ботов для Telegram и Twitch на базе асинхронных библиотек. Быстро осваиваю современные технологии, ориентирован на написание чистого и качественного кода и эффективность решений.
+
+## 🚀 Ключевые компетенции:
+
+- Разработка REST API на Django REST Framework и FastAPI
+- Оптимизация производительности и запросов к БД (PostgreSQL, MongoDB)
+- Работа с инфраструктурой: Docker, Docker Compose, развертывание сервисов (PostgreSQL, RabbitMQ, MinIO)
+- Работа с микросервисной архитектурой и очередями задач (Celery/RabbitMQ)
+- Разработка чат-ботов для Telegram/Twitch
+
+Ищу позицию Junior Python Developer для профессионального роста в команде.
+
+
+## 💼 Опыт работы
+
+### Cloudike (2024-2025) Backend Engineer
+
+Участие в разработке двух проектов компании: облачного файлового хранилища и системы обработки метаданных.
+
+- Разработка backend-сервисов для облачного файлового хранилища.
+- Создание системы извлечения метаданных с полным циклом разработки.
+- Разработка и поддержка REST API на Django, Django REST Framework и FastAPI.
+- Оптимизация производительности сервисов и запросов к базам данных (PostgreSQL, MongoDB).
+- Реализация асинхронных задач с помощью Celery и RabbitMQ.
+- Работа в среде Docker: разработка, контейнеризация и развертывание сервисов.
+- Участие в рефакторинге кода, исправление багов, написание тестов и внедрении новых функций
+
+#### Технологии: Python, Django, Django REST Framework, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Celery, RabbitMQ, MinIO (S3)
+
 
 ## 🎓Образование
 ### Высшее 
 
 Холодильная, криогенная техника и кондиционирование (инженер)
 
-Уровень английского языка Intermediate (B1)
+### Повышение квалификации
+Нетология | Курс «Python-разработчик: расширенный курс»
+
+#### Уровень английского языка Intermediate (B1)
 
 ## 🧠Навыки
 - **Языки программирования**: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="25" height="25" />, SQL
 - **Инструменты разработки**: Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25" />, GitHub <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="25" height="25" />
-- **Базы данных**: PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25" />, SQLAlchemy <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="25" height="25" />, DBeaver <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="25" height="25" />
-- **Фреймворки**: Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25" />, Django REST Framework <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="Django REST Framework" width="25" height="25" />, FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="25" height="25" />, Flask <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="25" height="25" />
+- **Базы данных**: PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25" />, SQLAlchemy <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="25" height="25" />, DBeaver <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="25" height="25" />, MySQL <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="DBeaver" width="25" height="25" />
+- **Фреймворки**: Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25" />, Django REST Framework <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="Django REST Framework" width="25" height="25" />, FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="25" height="25" />
 - **Контейнеризация**: Docker <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Django" width="25" height="25" />
 - **Тестирование**: Pytest <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg" alt="Pytest" width="25" height="25" />, Selenium <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="25" height="25" />
 - **ОС**: Windows <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="25" height="25" />, Linux  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />, macOS <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Windows" width="25" height="25" />
