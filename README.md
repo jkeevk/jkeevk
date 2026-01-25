@@ -1,109 +1,69 @@
 # 🖐Приветствую! 
-## Обо мне
-Меня зовут Сергей Игумнов! 
 
-Python backend-разработчик с опытом коммерческой разработки высоконагруженных backend приложений, микросервисной архитектуры и создания ботов для Telegram и Twitch на базе асинхронных библиотек. Быстро осваиваю современные технологии, ориентирован на написание чистого и качественного кода и эффективность решений.
+Меня зовут Сергей Игумнов. 
+Python backend-разработчик с опытом коммерческой разработки высоконагруженных backend-приложений, микросервисной архитектуры и создания ботов на базе асинхронных библиотек. Активно использую AI-инструменты в рабочих процессах для повышения продуктивности, качества кода и скорости разработки. Быстро осваиваю современные технологии, ориентирован на написание чистого и эффективного кода.
 
-## 🚀 Ключевые компетенции:
+## 🧠 Стек
 
-- Разработка REST API на Django REST Framework и FastAPI
-- Оптимизация производительности и запросов к БД (PostgreSQL, MongoDB)
-- Работа с инфраструктурой: Docker, Docker Compose, развертывание сервисов (PostgreSQL, RabbitMQ, MinIO)
-- Работа с микросервисной архитектурой и очередями задач (Celery/RabbitMQ)
-- Разработка чат-ботов для Telegram/Twitch
-
-Ищу позицию Junior Python Developer для профессионального роста в команде.
+- **Языки программирования**: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" />, SQL  
+- **Фреймворки**: Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="25" />, Django REST Framework <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="25" />, FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" width="25" />  
+- **Базы данных**: PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" />, MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="25" />
+- **ORM / Data Access**: SQLAlchemy <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="25" />, DBeaver <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="25" />  
+- **Инфраструктура и очереди**: RabbitMQ <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="25" />, Redis <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="25" />, Celery, MinIO  
+- **Контейнеризация**: Docker <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="25" />, Docker Compose
+- **Тестирование**: Pytest <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg" width="25" />, Selenium <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="25" />  
+- **Инструменты**: Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" />, GitHub <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="25" />, Postman <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="25" />
+- **ОС**: Linux <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25" />, macOS <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="25" />, Windows <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="25" />
 
 
 ## 💼 Опыт работы
 
-### Cloudike (2024-2025) Backend Engineer
+### Cloudike (май 2024 - сентябрь 2025)
 
-Участие в разработке двух проектов компании: облачного файлового хранилища и системы обработки метаданных.
+https://cloudike.net/
 
-- Разработка backend-сервисов для облачного файлового хранилища.
-- Создание системы извлечения метаданных с полным циклом разработки.
-- Разработка и поддержка REST API на Django, Django REST Framework и FastAPI.
-- Оптимизация производительности сервисов и запросов к базам данных (PostgreSQL, MongoDB).
-- Реализация асинхронных задач с помощью Celery и RabbitMQ.
-- Работа в среде Docker: разработка, контейнеризация и развертывание сервисов.
-- Участие в рефакторинге кода, исправление багов, написание тестов и внедрении новых функций
+Backend Engineer (South Korea, Seoul, remote) 
 
-#### Технологии: Python, Django, Django REST Framework, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Celery, RabbitMQ, MinIO (S3)
+- Проектировал и разрабатывал backend-сервисы для облачного файлового хранилища, используемого в production-среде.
+- Спроектировал и реализовал систему извлечения и обработки метаданных end-to-end: от архитектуры до эксплуатации.
+- Разрабатывал, поддерживал и масштабировал REST API на Django, Django REST Framework и FastAPI.
+- Оптимизировал производительность сервисов и запросов к базам данных (PostgreSQL, MongoDB), снижая latency и нагрузку.
+- Реализовывал и поддерживал асинхронную обработку задач с использованием Celery и RabbitMQ.
+- Работал с контейнеризацией и деплоем сервисов в Docker-окружении, обеспечивая воспроизводимость и стабильность окружений.
+- Проводил рефакторинг legacy-кода, устранял производственные дефекты, писал автотесты и внедрял новые функциональные возможности.
 
-
-## 🎓Образование
-### Высшее 
-
-Холодильная, криогенная техника и кондиционирование (инженер)
-
-### Повышение квалификации
-Нетология | Курс «Python-разработчик: расширенный курс»
-
-#### Уровень английского языка Intermediate (B1)
-
-## 🧠Навыки
-- **Языки программирования**: Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="25" height="25" />, SQL
-- **Инструменты разработки**: Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25" />, GitHub <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="25" height="25" />
-- **Базы данных**: PostgreSQL <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25" />, SQLAlchemy <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="25" height="25" />, DBeaver <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="25" height="25" />, MySQL <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="DBeaver" width="25" height="25" />
-- **Фреймворки**: Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25" />, Django REST Framework <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" alt="Django REST Framework" width="25" height="25" />, FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="25" height="25" />
-- **Контейнеризация**: Docker <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Django" width="25" height="25" />
-- **Тестирование**: Pytest <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg" alt="Pytest" width="25" height="25" />, Selenium <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="25" height="25" />
-- **ОС**: Windows <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="25" height="25" />, Linux  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />, macOS <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Windows" width="25" height="25" />
+#### Стек: Python, Django, Django REST Framework, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Celery, RabbitMQ, MinIO (S3)
 
 ## 📃Сертификаты
-- ["Поколение Python": курс для начинающих](https://stepik.org/cert/2391331)
 - ["Поколение Python": курс для продвинутых](https://stepik.org/cert/2456334)
 - ["Python-разработчик"](https://stepik.org/cert/2743532)
-- [Добрый, добрый Python](https://stepik.org/cert/2593149)
 - [Программирование на Python](https://stepik.org/cert/2512359)
 - [Функциональное программирование на Python](https://stepik.org/cert/2533369)
-- [Инди-курс программирования на Python](https://stepik.org/cert/2637806)
-- [Введение в SQL](https://stepik.org/cert/2488176)
-- [Введение в Linux](https://stepik.org/cert/2200592)
-- [Docker для начинающих + практический опыт](https://stepik.org/cert/2664961)
 - [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/cert/2666351)
-- [Инди-курс по HTML и CSS](https://stepik.org/cert/2687146)
 
 ## 📂Мои проекты
-- ### Дипломный проект: Backend-приложение для автоматизации закупок
+
+- ### Web-приложение для автоматизации закупок
 
 Проект представляет собой backend-приложение для автоматизации закупок в розничной сети. Приложение разработано на Django Rest Framework и предоставляет REST API для взаимодействия с сервисом
 
 [Ссылка на проект](https://github.com/jkeevk/diploma_shop)
 
-- ### Командный проект по курсу «Профессиональная работа с Python»
+- ### Проект «AIMLUL Twitch Bot — высоконагруженный backend-сервис для Twitch»
+
+Проект представляет собой асинхронный Twitch-бот для автоматизации и расширения интерактивных механик стримингового канала. Реализует игровые системы, обработку EventSub-наград, управление пользовательской статистикой и администрирование инфраструктуры.
+
+[Ссылка на проект](https://github.com/jkeevk/AIMLUL-Twitch-bot)
+
+- ### Проект «Веб-платформа для знакомств VKinder»
 
 Проект посвящён поиску новых знакомых на основе их возраста, пола и города. С помощью бота VKinder пользователи могут легко искать и взаимодействовать с другими людьми, подходящими под их критерии.
 
 [Ссылка на проект](https://github.com/jkeevk/VKinder)
 
-- ### Курсовая работа «Резервное копирование» по курсу «ООП и работа с API»
-  
-Проект представляет собой программу для резервного копирования фотографий (аватарок) пользователя ВКонтакте в облачное хранилище Яндекс.Диск, на локальный компьютер и в Google Drive. Разработка ориентирована на упрощение процесса сохранения фото и организации их хранения.
-
-[Ссылка на проект](https://github.com/jkeevk/Course_Project_API)
-
-
-- ### Курсовая работа «ТГ-чат-бот «Обучалка английскому языку»» по курсу «Базы данных»
-  
-Проект посвящен разработке интерактивного Telegram-бота, предназначенного для обучения пользователей английскому языку с помощью игрового формата. 
-
-[Ссылка на проект](https://github.com/jkeevk/Project_TgBOT)
-
-## 💼Кейсы
-- #### «Разработка алгоритма обхода матрицы по спирали, полученной по сети»
-[Ссылка на кейс](https://github.com/jkeevk/Case_Spiral_Matrix)
-- #### «Разработка телеграм бота с редактированием изображений»
-[Ссылка на кейс](https://github.com/jkeevk/Case_TgBOT)
-- #### «Разработка API бэкенд простого приложения для списка дел»
-[Ссылка на кейс](https://github.com/jkeevk/todo_list)
 
 # ✉️Мои контакты
 
 - jkeevk@yandex.ru
 - https://t.me/jkeeincredible
-
-
-
-
+- https://www.linkedin.com/in/jkeeincredible/
