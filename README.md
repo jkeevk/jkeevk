@@ -35,7 +35,7 @@ Backend Engineer (South Korea, Seoul, remote)
 #### Стек: Python, Django, Django REST Framework, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Celery, RabbitMQ, MinIO (S3)
 
 ## 📃Сертификаты
-- [Python-разработчик: расширенный курс (Нетология)](https://disk.yandex.ru/i/jFGriF3xQK1w6A)
+- [Python-разработчик: расширенный курс (Нетология)](certificate.pdf)
 - ["Поколение Python": курс для продвинутых](https://stepik.org/cert/2456334)
 - ["Python-разработчик"](https://stepik.org/cert/2743532)
 - [Программирование на Python](https://stepik.org/cert/2512359)
