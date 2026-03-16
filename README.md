@@ -39,6 +39,7 @@ Backend Engineer (South Korea, Seoul, remote)
 - ["Поколение Python": курс для продвинутых](https://stepik.org/cert/2456334)
 - ["Python-разработчик"](https://stepik.org/cert/2743532)
 - [Программирование на Python](https://stepik.org/cert/2512359)
+- [PROкод: продвинутый курс по Python](https://stepik.org/cert/3169392)
 - [Функциональное программирование на Python](https://stepik.org/cert/2533369)
 - [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/cert/2666351)
 
